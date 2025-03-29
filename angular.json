@@ -28,7 +28,8 @@
               "src/styles.css"
             ],
             "scripts": [],
-            "baseHref": "/short-film-website/"
+            "baseHref": "/",
+            "deployUrl": "/"
           },
           "configurations": {
             "production": {
