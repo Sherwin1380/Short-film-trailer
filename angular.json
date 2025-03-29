@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/short-film-website",
+            "outputPath": "dist/short-film-website/browser",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
